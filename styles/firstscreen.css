@@ -1,0 +1,88 @@
+*{
+    background-color: rgb(250, 235, 215);
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    font-family: 'Fredoka One', cursive;
+}
+
+.imagen{
+    background-color: rgb(248, 237, 222);
+    border-radius: 6px;
+}
+
+.info, .information{
+    font-family: 'Fredoka One', cursive;
+     max-width: 100%;
+    display: flex;
+    justify-content: center;
+    color: rgb(133, 32, 140);
+}
+
+.spaceFor{
+    border-radius: 6px;
+    border: solid rgb(212, 154, 154);
+}
+
+#test{
+    font-family: 'Fredoka One', cursive;
+    border: rgb(212, 165, 165) dotted ;
+}
+
+.bears{
+    padding: 10px;
+    justify-content: center;
+    border-radius: 40%;
+    border: solid rgb(221, 184, 153) ;
+}
+
+.bears:hover {
+    background-color: rgb(222, 158, 106);
+    color: antiquewhite;
+    
+}
+
+.cont2{
+    border:rgb(212, 165, 165) dotted;
+    width: fit-content;
+
+}
+
+.boton{
+  border-radius: 6px;
+}
+
+.boton:hover{
+    background-color: rgb(210, 120, 42) ;
+    color: antiquewhite ;
+}
+
+.infoS{
+    font-family:'Courier New', Courier, monospace;
+}
+
+.bi{
+   color: rgb(97, 69, 123);
+}
+
+
+.container{
+    margin-bottom: 10%;
+    border-radius: 6px;
+    max-width: 1200px;
+}
+
+.foot{
+    color: rgb(212, 165, 165);
+    display: flex;
+    justify-content: center;
+    background-color: rgb(250, 235, 215) ;
+}
+
+.tabla {
+    width: 50% !important;
+    
+}
+
